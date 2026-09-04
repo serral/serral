@@ -20,7 +20,7 @@ jobs:
           # UTC_OFFSET: 0
           # EXCLUDE: html,css
           # EXCLUDE_REPOS: some-repo,owner/other-repo
-          # THEME: github_dark
+          THEME: github_dark
           # ANIMATION: fade
           # DURATION: 2
           # NAME: Andre Serralheiro
