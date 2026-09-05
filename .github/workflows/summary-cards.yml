@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Pinned to an immutable commit SHA. `@release` is a force-pushable branch,
       # so it silently re-resolved on every scheduled run.
