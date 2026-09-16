@@ -22,3 +22,6 @@ npm-debug.log*
 # Local scratch
 *.tmp
 .tmp/
+
+# Local working notes (never published)
+.aux/
